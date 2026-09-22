@@ -1,1 +1,2 @@
 Linux and DevOps Learning
+Git is important for Cloud and DevOps
